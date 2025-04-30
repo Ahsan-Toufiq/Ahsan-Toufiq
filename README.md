@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center">🛠️ Technologies and Tools 🛠️</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6ca3da" alt="Python"/>
@@ -53,10 +53,4 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq" alt="Trophies"/>
   </a>
-</p>
-
-<h2 align="center">📬 Connect with me 📬</h2>
-
-<p align="center">
-  Feel free to connect with me on LinkedIn or follow me on Twitter and Instagram. I'm always open to discussing new projects, innovative ideas, or opportunities to be part of exciting ventures.
 </p>
