@@ -60,5 +60,5 @@
 <h2 align="center">🌟 GitHub Achievements 🌟</h2>
 
 <div align="center" style="margin: 0 auto; display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=nord&no-frame=true&row=2&column=4&margin-w=20&margin-h=15&rank=-C" alt="GitHub Trophies" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=onedark&no-frame=true&row=2&column=4&margin-w=20&margin-h=15&rank=-C" alt="GitHub Trophies" style="filter: sepia(50%) saturate(500%) hue-rotate(5deg) brightness(90%); border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </div>
