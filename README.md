@@ -6,13 +6,13 @@
   <a href="https://www.linkedin.com/in/ahsan-toufiq/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wakatime.com/@ahsantoufiq">
-    <img src="https://wakatime.com/badge/user/ahsantoufiq.svg" alt="WakaTime"/>
-  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahsan-Toufiq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://wakatime.com/@ahsantoufiq">
+    <img src="https://wakatime.com/badge/user/ahsantoufiq.svg" alt="WakaTime"/>
+  </a>
 </p>
 
 <h2 align="center">Tech Stack</h2>
