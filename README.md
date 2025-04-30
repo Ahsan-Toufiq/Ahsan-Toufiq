@@ -57,8 +57,19 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
-<h2 align="center">🏆 Developer Trophies</h2>
+<h2 align="center">🏆 Developer Trophies 🏆</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=algolia&no-frame=true" alt="Trophies" style="filter: brightness(110%) contrast(110%) grayscale(30%); border: 1px solid #e0e0e0; padding: 8px; border-radius: 8px;"/>
+<div align="center" style="width: fit-content; margin: 0 auto; padding: 16px 0;">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" 
+    alt="Trophies" 
+    style="
+      filter: brightness(110%) contrast(110%) grayscale(30%);
+      border: 1px solid #e0e0e0;
+      padding: 12px;
+      border-radius: 12px;
+      background: #f9f9f9;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    "
+  />
 </div>
