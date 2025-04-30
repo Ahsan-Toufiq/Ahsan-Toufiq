@@ -57,10 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&column=7&theme=onedark&no-frame=true" alt="Trophies"/>
-  </a>
-</p>
+<div align="center" style="margin: 0 auto; width: fit-content;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+</div>
