@@ -19,13 +19,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Chisel-000000?style=for-the-badge&logo=chisel&logoColor=white" alt="Chisel"/>
 <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white" alt="SystemVerilog"/>
   <img src="https://img.shields.io/badge/Playwright-46B3E4?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>  
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C4B51?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
 </p>
