@@ -32,8 +32,11 @@
 
 <h2 align="center">📊 Coding Activity 📊</h2>
 
-[![WakaTime](https://wakatime.com/badge/user/ahsantoufiq.svg)](https://wakatime.com/@ahsantoufiq)
-[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true)](https://wakatime.com/@ahsantoufiq)
+<p align="center">
+  <a href="https://wakatime.com/@ahsantoufiq">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats"/>
+  </a>
+</p>
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 
