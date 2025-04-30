@@ -44,7 +44,7 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq-Sidd&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
