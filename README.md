@@ -57,8 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
-<h2 align="center">✨ Elite Developer</h2>
+<h2 align="center">🌟 GitHub Achievements 🌟</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=discord&no-frame=true&column=3&rank=SSS,SS,S&margin-h=10" alt="Premium Trophies" style="border: 1px solid #404040; border-radius: 8px; padding: 8px; background: #1e1e1e;"/>
+<div align="center" style="margin: 0 auto; display: flex; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahsan-Toufiq&theme=nord&no-frame=true&row=2&column=4&margin-w=20&margin-h=15&rank=-C" alt="GitHub Trophies" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
