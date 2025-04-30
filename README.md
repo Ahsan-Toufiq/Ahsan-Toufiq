@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
-<h2 align="center">🏆 Developer Trophies 🏆</h2>
+<h2 align="center">🏆 Trophies 🏆</h2>
 
 <div align="center" style="width: fit-content; margin: 0 auto; padding: 16px 0;">
   <img 
