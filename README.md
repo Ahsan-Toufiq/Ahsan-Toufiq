@@ -30,13 +30,10 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5C4B51?style=for-the-badge&logo=opencv&logoColor=white&color=053361" alt="Computer Vision"/>
 </p>
 
-<h2 align="center">📊 Coding Activity</h2>
+<h2 align="center">📊 Coding Activity 📊</h2>
 
-<p align="center">
-  <a href="https://wakatime.com/@ahsantoufiq">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats"/>
-  </a>
-</p>
+[![WakaTime](https://wakatime.com/badge/user/ahsantoufiq.svg)](https://wakatime.com/@ahsantoufiq)
+[![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true)](https://wakatime.com/@ahsantoufiq)
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 
