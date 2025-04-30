@@ -1,7 +1,7 @@
 <h1 align="center">Ahsan Toufiq</h1>
 
 
-<h3 align="center">⬢ Scaling Solutions | Building Teams | Delivering Impact ⬢</h3>
+<h3 align="center">⬢  Scaling Solutions | Building Teams | Delivering Impact  ⬢</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsan-toufiq/">
