@@ -44,7 +44,7 @@
 <h2 align="center">📉 GitHub Stats 📉</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
 </p>
 
 <h2 align="center">📊 Coding Activity 📊</h2>
