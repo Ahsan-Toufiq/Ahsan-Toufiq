@@ -43,6 +43,12 @@
 
 <h2 align="center">Activity</h2>
 <!--START_SECTION:waka-->
+
+```txt
+Other      10 hrs 30 mins  ████████████████████████▍   97.71 %
+Markdown   14 mins         ▋                           02.29 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">📉 GitHub Stats 📉</h2>
