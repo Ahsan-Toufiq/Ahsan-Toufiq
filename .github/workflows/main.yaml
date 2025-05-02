@@ -18,15 +18,15 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20.x'  # Updated to LTS version
+          node-version: '20.x'
 
       - name: Cache dependencies
-  	uses: actions/cache@v4
-  	with:
-    		path: node_modules
-    		key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-    		restore-keys: |
-      			${{ runner.os }}-node-
+        uses: actions/cache@v3  # Using v3 instead of v4 to avoid current GitHub issues
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
       - name: Install dependencies
         run: npm install
