@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahsan-Toufiq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://wakatime.com/@ahsantoufiq">
-    <img src="https://wakatime.com/badge/user/ahsantoufiq.svg" alt="WakaTime"/>
+    <img src="https://wakatime.com/badge/user/b52c5e9c-f61d-4a7e-b3b1-9eeebdfa1a4b.svg" alt="WakaTime"/>
   </a>
 </p>
 
