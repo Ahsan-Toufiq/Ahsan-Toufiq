@@ -19,7 +19,7 @@ jobs:
           OS_RANGE: "all_time"  # Special setting for OS stats
           TIME_RANGE: "last_30_days"
           BLOCKS: "▁▂▃▄▅▆▇█"
-          SECTION_HEADER: "## ⌨️ Development Analytics"
+          SECTION_HEADER: "##🔹 Activity 🔹"
       - name: Commit Changes
         run: |
           git config --global user.name "Your GitHub Username"
