@@ -12,12 +12,15 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          SHOW_TIMEZONE: false
-          SHOW_EDITORS: true
-          SHOW_OS: true
+          SHOW_TITLE: "false"
+          SHOW_TIME: "false"
+          SHOW_TOTAL: "true"
+          SHOW_LANGUAGES: "true"
+          LOCALE: "en"
       - name: Commit changes
         run: |
           git config user.name github-actions
-          git commit -am "Update WakaTime Stats" || echo "No changes"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update WakaTime stats" || echo "No changes to commit"
           git push
