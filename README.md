@@ -80,20 +80,20 @@
 
 </div>
 
-<h2 align="center">⏳ Coding Rhythm</h2>
+<h2 align="center">🛠 Development Profile</h2>
 
-<div align="center">
-  <img src="https://wakatime.com/share/@ahsantoufiq/ca887258-ea83-443d-91b3-a5a1b46cf241.svg?style=polar&radius=160&bg_color=0d111700&stroke=58a6ff" width="300" alt="Weekly Activity">
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+
+  ![Daily Average](https://img.shields.io/badge/Daily_Avg-2h_12m-blue?logo=wakatime&style=for-the-badge&color=58a6ff&labelColor=0d1117)
   
-  <div style="display: inline-block; text-align: left; margin-left: 30px;">
-    <h4>Top Languages</h4>
-    <ul style="color: #58a6ff;">
-      <li>Python - 32%</li>
-      <li>JavaScript - 18%</li>
-      <li>SystemVerilog - 15%</li>
-    </ul>
-  </div>
+  ![Primary Language](https://img.shields.io/badge/Python-32%25-blue?logo=python&style=flat-square&logoColor=white&color=1f6feb&labelColor=0d1117)
+  ![Secondary Language](https://img.shields.io/badge/JavaScript-18%25-blue?logo=javascript&style=flat-square&logoColor=white&color=1f6feb&labelColor=0d1117)
+  
+  ![Editor Choice](https://img.shields.io/badge/VS_Code-78%25-blue?logo=visualstudiocode&style=flat-square&logoColor=white&color=58a6ff&labelColor=0d1117)
 </div>
+
+
+
 
 <h2 align="center">🏅 Trophies 🏅</h2>
 
