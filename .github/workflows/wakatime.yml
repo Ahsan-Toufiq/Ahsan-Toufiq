@@ -13,11 +13,14 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
-          SHOW_TIMEZONE: false
-          SHOW_EDITORS: true
-          SHOW_OS: true
+          # Remove invalid parameters:
+          # SHOW_TIMEZONE: false
+          # SHOW_EDITORS: true
+          # SHOW_OS: true
       - name: Commit changes
         run: |
           git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
           git commit -am "Update WakaTime Stats" || echo "No changes"
           git push
