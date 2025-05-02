@@ -43,10 +43,9 @@
 
 <h2 align="center">Activity</h2>
 
-<div align-"center>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</div>
+
 
 <h2 align="center">📉 GitHub Stats 📉</h2>
 
