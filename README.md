@@ -44,6 +44,15 @@
 <h2 align="center">Activity</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        14 hrs 23 mins  ██████████████████████▅▁▁   90.55 %
+Markdown     42 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.50 %
+YAML         36 mins         █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.78 %
+JSON         4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.52 %
+Git Config   3 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
