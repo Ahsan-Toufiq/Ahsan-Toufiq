@@ -42,7 +42,7 @@
 </p>
 
 <h2 align="center">💻 30-Day Code Chronology 💻</h2>
-<div align="center">
+<div align="center" style="background-color: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #d0e3ff;">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -70,10 +70,3 @@
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     "
   />
-</div>
-      border-radius: 12px;
-      background: #f9f9f9;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    "
-  />
-</div>
