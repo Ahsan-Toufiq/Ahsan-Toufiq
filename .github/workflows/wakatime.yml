@@ -1,0 +1,27 @@
+name: WakaTime Stats Update
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Daily at 12PM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@v2.1.1
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LANGUAGES: "true"
+          SHOW_OS: "false"
+          SHOW_EDITORS: "false"
+          SHOW_CATEGORIES: "false"
+          SHOW_PROJECTS: "false"
+          SHOW_LOC: "false"
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update WakaTime stats" || echo "No changes to commit"
+          git push
