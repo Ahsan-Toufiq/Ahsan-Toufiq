@@ -41,9 +41,13 @@
   </a>
 </p>
 
-<h2 align="center">Activity</h2>
+<h2 align="center">💻 30-Day Code Chronology 💻</h2>
+<div align="center">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</div>
 
 <h2 align="center">📉 GitHub Stats 📉</h2>
 
