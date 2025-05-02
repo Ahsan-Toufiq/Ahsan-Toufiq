@@ -1,28 +1,26 @@
 name: Update WakaTime Stats
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily update
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Updates daily at midnight
+  workflow_dispatch:     # Allows manual runs
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-
-      - name: Update Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "true"
-          SHOW_EDITORS: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_TIMEZONE: "false"
-          SHOW_PROJECTS: "false"
-          COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
+          SHOW_TITLE: false
+          BLOCKS: "░▒▓█"  # Gradient blocks (adjust as desired)
+          TIME_RANGE: "last_7_days"
+          SHOW_TIME: "true"
+          STOP_AT_OTHER: "true"
+      - name: Commit Changes
+        run: |
+          git config --global user.name "Your GitHub Username"
+          git config --global user.email "your-email@example.com"
+          git add .
+          git commit -m "Update WakaTime Stats" || exit 0
+          git push
