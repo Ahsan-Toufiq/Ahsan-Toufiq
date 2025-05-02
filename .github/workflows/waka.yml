@@ -13,13 +13,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+          fetch-depth: 0  # Required for proper git history
 
-      - uses: athul/waka-readme@master
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          BLOCKS: "▁▂▃▄▅▆▇█"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "false"
+          SHOW_EDITORS: "true"
+          SHOW_LANGUAGES: "true"
+          SHOW_CATEGORIES: "true"
+          BAR_CHART_STYLE: "blocks"
           TIME_RANGE: "last_30_days"
-          LANG_COUNT: 6  # Show top 5 languages
-          SHOW_TIME: "true"
-          COMMIT_MESSAGE: "Update WakaTime Stats"
+          OS_RANGE: "all_time"
+          STOP_AT_OTHER: "true"      # Excludes "Other" category
+          BLOCKS: "░▒▓█"            # Custom block characters
+          LANG_COUNT: 8             # Shows top 8 languages
+          COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
