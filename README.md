@@ -43,14 +43,8 @@
 
 <h2 align="center">Activity</h2>
 <!--START_SECTION:waka-->
-
-```txt
-Other      10 hrs 30 mins  ████████████████████████▍   97.71 %
-Markdown   14 mins         ▋                           02.29 %
-```
-
 <!--END_SECTION:waka-->
-git 
+
 <h2 align="center">📉 GitHub Stats 📉</h2>
 
 <p align="center">
@@ -67,6 +61,12 @@ git
       filter: brightness(110%) contrast(110%) grayscale(30%);
       border: 1px solid #e0e0e0;
       padding: 12px;
+      border-radius: 12px;
+      background: #f9f9f9;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    "
+  />
+</div>
       border-radius: 12px;
       background: #f9f9f9;
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
