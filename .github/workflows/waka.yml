@@ -16,7 +16,6 @@ jobs:
           BLOCKS: "░▒▓█"  # Gradient blocks (adjust as desired)
           TIME_RANGE: "last_7_days"
           SHOW_TIME: "true"
-          STOP_AT_OTHER: "true"
       - name: Commit Changes
         run: |
           git config --global user.name "Your GitHub Username"
