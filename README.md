@@ -45,6 +45,15 @@
 <div align="center" style="background-color: #f0f8ff; padding: 15px; border-radius: 10px; border: 1px solid #d0e3ff;">
 
 <!--START_SECTION:waka-->
+
+```txt
+Other        14 hrs 23 mins  ██████████████████████▓░░   90.55 %
+Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+YAML         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
