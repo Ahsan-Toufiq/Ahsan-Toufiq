@@ -20,6 +20,6 @@ jobs:
           SHOW_TITLE: false
           BLOCKS: "▁▂▃▄▅▆▇█"
           TIME_RANGE: "last_30_days"
-          LANG_COUNT: 5  # Show top 5 languages
+          LANG_COUNT: 6  # Show top 5 languages
           SHOW_TIME: "true"
           COMMIT_MESSAGE: "Update WakaTime Stats"
