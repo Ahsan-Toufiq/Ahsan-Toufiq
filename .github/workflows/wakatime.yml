@@ -13,6 +13,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
+          # Only use valid parameters from the list in the error message
       - name: Commit changes
         run: |
           git config user.name github-actions
