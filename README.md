@@ -43,8 +43,18 @@
 
 <h2 align="center">Activity</h2>
 
+```txt
+### 📊 Last 30 Days Activity
 <!--START_SECTION:waka-->
+<!-- WakaTime stats will appear here automatically -->
 <!--END_SECTION:waka-->
+
+### 💻 All-Time OS Usage
+<!--START_SECTION:waka:os-->
+<!-- OS stats will appear here -->
+<!--END_SECTION:waka:os-->
+```
+
 
 
 <h2 align="center">📉 GitHub Stats 📉</h2>

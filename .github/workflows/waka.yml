@@ -20,10 +20,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: "false"
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: "last_30_days"
-          LANG_COUNT: "8"
-          SHOW_TIME: "true"
-          STOP_AT_OTHER: "true"
+          SHOW_OS: "true"
+          SHOW_EDITORS: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_TIMEZONE: "false"
+          SHOW_PROJECTS: "false"
           COMMIT_MESSAGE: "📊 Updated WakaTime Stats"
