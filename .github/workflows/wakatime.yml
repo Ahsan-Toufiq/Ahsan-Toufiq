@@ -13,10 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
-          # Remove invalid parameters:
-          # SHOW_TIMEZONE: false
-          # SHOW_EDITORS: true
-          # SHOW_OS: true
       - name: Commit changes
         run: |
           git config user.name github-actions
