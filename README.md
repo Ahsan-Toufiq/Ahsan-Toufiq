@@ -42,16 +42,8 @@
 </p>
 
 <h2 align="center">Activity</h2>
-
-<!-- WakaTime Cards -->
-<div align="center">
-  <!-- Auto-updating via GitHub Action -->
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
-  <!-- Detailed Breakdown -->
-  <img src="https://wakatime.com/share/@ahsantoufiq/b52c5e9c-f61d-4a7e-b3b1-9eeebdfa1a4b.svg" style="width: 60%; border-radius: 8px; margin-top: 20px;"/>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="center">📉 GitHub Stats 📉</h2>
 
