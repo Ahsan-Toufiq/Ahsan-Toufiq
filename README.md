@@ -47,26 +47,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
 </p>
 
-<h2 align="center">💻 Activity 💻</h2>
+<h2 align="center">⌨️ Weekly Coding Activity</h2>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 20px 0;">
 
-  <!-- Weekly Activity -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-    <h3 style="color: #58a6ff; margin-top: 0;">Weekly Activity</h3>
-    <img src="https://wakatime.com/share/@ahsantoufiq/ca887258-ea83-443d-91b3-a5a1b46cf241.svg" alt="Weekly Coding Activity" style="width: 100%;"/>
+  <!-- Compact Activity Graph -->
+  <div style="width: 280px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+    <img src="https://wakatime.com/share/@ahsantoufiq/ca887258-ea83-443d-91b3-a5a1b46cf241.svg" alt="Activity" style="width: 100%; height: 160px; object-fit: contain;"/>
   </div>
 
-  <!-- Language Breakdown -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-    <h3 style="color: #58a6ff; margin-top: 0;">Languages</h3>
-    <img src="https://wakatime.com/share/@ahsantoufiq/aa658ee7-bb3c-479a-91aa-4f3f3ab7a8ea.svg" alt="Language Breakdown" style="width: 100%;"/>
+  <!-- Compact Languages -->
+  <div style="width: 180px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+    <img src="https://wakatime.com/share/@ahsantoufiq/aa658ee7-bb3c-479a-91aa-4f3f3ab7a8ea.svg" alt="Languages" style="width: 100%; height: 160px; object-fit: contain;"/>
   </div>
 
-  <!-- Editors -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-    <h3 style="color: #58a6ff; margin-top: 0;">Editors</h3>
-    <img src="https://wakatime.com/share/@ahsantoufiq/b399b8f7-d2b7-4106-a70c-0866077365fd.svg" alt="Editor Usage" style="width: 100%;"/>
+  <!-- Compact Editors -->
+  <div style="width: 180px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+    <img src="https://wakatime.com/share/@ahsantoufiq/b399b8f7-d2b7-4106-a70c-0866077365fd.svg" alt="Editors" style="width: 100%; height: 160px; object-fit: contain;"/>
   </div>
 
 </div>
