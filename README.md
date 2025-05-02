@@ -80,6 +80,21 @@
 
 </div>
 
+<h2 align="center">⏳ Coding Rhythm</h2>
+
+<div align="center">
+  <img src="https://wakatime.com/share/@ahsantoufiq/ca887258-ea83-443d-91b3-a5a1b46cf241.svg?style=polar&radius=160&bg_color=0d111700&stroke=58a6ff" width="300" alt="Weekly Activity">
+  
+  <div style="display: inline-block; text-align: left; margin-left: 30px;">
+    <h4>Top Languages</h4>
+    <ul style="color: #58a6ff;">
+      <li>Python - 32%</li>
+      <li>JavaScript - 18%</li>
+      <li>SystemVerilog - 15%</li>
+    </ul>
+  </div>
+</div>
+
 <h2 align="center">🏅 Trophies 🏅</h2>
 
 <div align="center" style="width: fit-content; margin: 0 auto; padding: 16px 0;">
