@@ -30,14 +30,6 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-5C4B51?style=for-the-badge&logo=opencv&logoColor=white&color=053361" alt="Computer Vision"/>
 </p>
 
-<h2 align="center">📊 Coding Activity 📊</h2>
-
-<p align="center">
-  <a href="https://wakatime.com/@ahsantoufiq">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats"/>
-  </a>
-</p>
-
 <h2 align="center">💎 Featured Projects 💎</h2>
 
 <p align="center">
@@ -55,6 +47,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
+</p>
+
+<h2 align="center">📊 Coding Activity 📊</h2>
+
+<p align="center">
+  <a href="https://wakatime.com/@ahsantoufiq">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats"/>
+  </a>
 </p>
 
 <h2 align="center">🏅 Trophies 🏅</h2>
