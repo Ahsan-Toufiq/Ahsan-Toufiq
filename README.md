@@ -47,54 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
 </p>
 
-<h2 align="center">💻 Weekly Coding Activity</h2>
-
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 800px; margin: 0 auto;">
-
-  <!-- Main Activity Graph -->
-  <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
-    <img 
-      src="https://wakatime.com/share/@ahsantoufiq/ca887258-ea83-443d-91b3-a5a1b46cf241.svg" 
-      alt="Weekly Activity"
-      style="width: 100%; min-height: 240px; object-fit: contain;"
-    />
-  </div>
-
-  <!-- Combined Languages & Editors -->
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; flex: 1;">
-      <img 
-        src="https://wakatime.com/share/@ahsantoufiq/aa658ee7-bb3c-479a-91aa-4f3f3ab7a8ea.svg" 
-        alt="Languages"
-        style="width: 100%; height: 200px; object-fit: contain;"
-      />
-    </div>
-    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; flex: 1;">
-      <img 
-        src="https://wakatime.com/share/@ahsantoufiq/b399b8f7-d2b7-4106-a70c-0866077365fd.svg" 
-        alt="Editors"
-        style="width: 100%; height: 200px; object-fit: contain;"
-      />
-    </div>
-  </div>
-
-</div>
-
-<h2 align="center">🛠 Development Profile</h2>
-
-<div align="center" style="max-width: 600px; margin: 0 auto;">
-
-  ![Daily Average](https://img.shields.io/badge/Daily_Avg-2h_12m-blue?logo=wakatime&style=for-the-badge&color=58a6ff&labelColor=0d1117)
-  
-  ![Primary Language](https://img.shields.io/badge/Python-32%25-blue?logo=python&style=flat-square&logoColor=white&color=1f6feb&labelColor=0d1117)
-  ![Secondary Language](https://img.shields.io/badge/JavaScript-18%25-blue?logo=javascript&style=flat-square&logoColor=white&color=1f6feb&labelColor=0d1117)
-  
-  ![Editor Choice](https://img.shields.io/badge/VS_Code-78%25-blue?logo=visualstudiocode&style=flat-square&logoColor=white&color=58a6ff&labelColor=0d1117)
-</div>
-
-
-
-
 <h2 align="center">🏅 Trophies 🏅</h2>
 
 <div align="center" style="width: fit-content; margin: 0 auto; padding: 16px 0;">
