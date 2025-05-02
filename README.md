@@ -45,8 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Toufiq&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
 <h2 align="center">📊 Coding Activity 📊</h2>
@@ -55,6 +53,7 @@
   <a href="https://wakatime.com/@ahsantoufiq">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsantoufiq&theme=dark&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Coding Stats"/>
 </p>
 
 <h2 align="center">🏅 Trophies 🏅</h2>
