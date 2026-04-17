@@ -47,7 +47,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Image (svg)   2 mins                ████████████████████▒░░░░   80.81 %
+Other         0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
 ```
 
 <!--END_SECTION:waka-->
